@@ -1,0 +1,18 @@
+body {
+  margin-bottom: 100px;
+}
+@font-face {
+  font-family: popin;
+  src: url(../assets/font/Poppins-Light.ttf);
+}
+.jumbotron {
+  background-color: #f7f7f7;
+  padding: 3rem 2rem;
+}
+.title {
+  font-family: "popin";
+}
+.product hr {
+  width: 200px;
+  margin: 0 auto;
+}
